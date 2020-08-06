@@ -1,4 +1,5 @@
-[
+{
+"Model":[
   {
 	"question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
 	"optionA": "Oxygen",
@@ -32,3 +33,4 @@
 	"correctAns": 2
   }
 ]
+}
