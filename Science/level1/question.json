@@ -1,34 +1,102 @@
 [
   {
-	"question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
-	"optionA": "Oxygen",
-	"optionB": "Hydrogen sulphide",
-	"optionC": "Carbon dioxide",
-	"optionD": "Nitrogen",
-	"correctAns": 2
+    "question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+    "optionA": "Oxygen",
+    "optionB": "Hydrogen sulphide",
+    "optionC": "Carbon dioxide",
+    "optionD": "Nitrogen",
+    "correctAns": 2,
+    "imgUrl": "",
+    "description": ""
   },
 	{
-	"question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
-	"optionA": "Oxygen",
-	"optionB": "Hydrogen sulphide",
-	"optionC": "Carbon dioxide",
-	"optionD": "Nitrogen",
-	"correctAns": 2
+    "question": "Which of the following is a non metal that remains liquid at room temperature?",
+    "optionA": "Phosphorous",
+    "optionB": "Bromine",
+    "optionC": "Chlorine",
+    "optionD": "Helium",
+    "correctAns": 2,
+    "imgUrl": "",
+    "description": ""
   },
 	{
-	"question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
-	"optionA": "Oxygen",
-	"optionB": "Hydrogen sulphide",
-	"optionC": "Carbon dioxide",
-	"optionD": "Nitrogen",
-	"correctAns": 2
+    "question": " Chlorophyll is a naturally occurring chelate compound in which central metal is",
+    "optionA": "copper",
+    "optionB": "magnesium",
+    "optionC": "iron",
+    "optionD": "calcium",
+    "correctAns": 2,
+    "imgUrl": "",
+    "description": ""
   },
 	{
-	"question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
-	"optionA": "Oxygen",
-	"optionB": "Hydrogen sulphide",
-	"optionC": "Carbon dioxide",
-	"optionD": "Nitrogen",
-	"correctAns": 2
+    "question": "Which of the following is used in pencils?",
+    "optionA": "Graphite",
+    "optionB": "Silicon",
+    "optionC": "Charcoal",
+    "optionD": "Phosphorous",
+    "correctAns": 1,
+    "imgUrl": "",
+    "description": ""
+  },
+	{
+    "question": "Which of the following metals forms an amalgam with other metals?",
+    "optionA": "Tin",
+    "optionB": "Mercury",
+    "optionC": "Lead",
+    "optionD": "Zinc",
+    "correctAns": 2,
+    "imgUrl": "",
+    "description": ""
+  },
+	{
+    "question": "Chemical formula for water is",
+    "optionA": "NaAlO2",
+    "optionB": "H2O",
+    "optionC": "Al2O3",
+    "optionD": "CaSiO3",
+    "correctAns": 2,
+    "imgUrl": "",
+    "description": ""
+  },
+	{
+    "question": "The gas usually filled in the electric bulb is",
+    "optionA": "nitrogen",
+    "optionB": "hydrogen",
+    "optionC": "carbon dioxide",
+    "optionD": "oxygen",
+    "correctAns": 1,
+    "imgUrl": "",
+    "description": ""
+  },
+	{
+    "question": "Washing soda is the common name for",
+    "optionA": "Sodium carbonate",
+    "optionB": "Calcium bicarbonate",
+    "optionC": "Sodium bicarbonate",
+    "optionD": "Calcium carbonate",
+    "correctAns": 1,
+    "imgUrl": "",
+    "description": "What is the scientific name for washing soda?\n\nSodium carbonate (also known as washing soda or soda ash), Na2CO3 is a sodium salt of carbonic acid.\n\nScientific name for baking soda?\n\nSodium bicarbonate or sodium hydrogen carbonate is the chemical compound with the formula NaHCO3. Sodium bicarbonate is a white solid that is crystalline but often appears as a fine powder. Since it has long been known and is widely used, the salt has many related names such as baking soda, bread soda, cooking soda, and bicarbonate of soda.\n"
+  },
+	{
+    "question": "Quartz crystals normally used in quartz clocks etc. is chemically",
+    "optionA": "silicon dioxide",
+    "optionB": "germanium oxide",
+    "optionC": "a mixture of germanium oxide and silicon dioxide",
+    "optionD": "sodium silicate",
+    "correctAns": 1,
+    "imgUrl": "",
+    "description": ""
+  },
+	{
+    "question": "Which of the gas is not known as green house gas?",
+    "optionA": "Methane",
+    "optionB": "Nitrous oxide",
+    "optionC": "Carbon dioxide",
+    "optionD": "Hydrogen",
+    "correctAns": 4,
+    "imgUrl": "In order, the most abundant greenhouse gases in Earth's atmosphere are:\n\n* water vapor\n* carbon dioxide\n* methane\n* nitrous oxide\n* ozone\n* chlorofluorocarbons",
+    "description": ""
   }
 ]
