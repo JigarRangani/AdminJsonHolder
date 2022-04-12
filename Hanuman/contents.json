@@ -1,0 +1,53 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.socialstickerapps.hanumanstickerquote",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Hanuman",
+      "publisher": "Valora",
+      "tray_image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/1.webp",
+      "publisher_email":"valorainfo@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/1.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/2.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/3.webp",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Hanuman 2",
+      "publisher": "Valora",
+      "tray_image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/7.webp",
+      "publisher_email":"valorainfo@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/4.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/5.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/JigarRangani/AdminJsonHolder/master/Hanuman/6.webp",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }
+  ]
+}
